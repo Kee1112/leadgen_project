@@ -63,7 +63,7 @@ Frontend will run at http://localhost:3000
 
 
 api key used:
-HUNTER_API_KEY= "8d4489f0ebae7d42effd260b63f82736bc095b84"
+
 
 
 
